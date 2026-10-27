@@ -26,7 +26,8 @@
       "category": "library",
       "questions": [
         "What is the UAEU Library's copyright limit for an online scan request? Include the item rule and percentage limit.",
-        "Can I scan two chapters from the same book in one day?"
+        "Can I scan two chapters from the same book in one day?",
+        "ما هو حد حقوق النشر لخدمة المسح الضوئي في مكتبة جامعة الإمارات؟"
       ],
       "matchPhrases": ["online scan copyright limit", "scan service one chapter"],
       "answer_en": "**Online Scan Service Copyright Limit**\nThe UAEU Library form limits requests to **one journal article per issue or one chapter per book in a single day**, within **10% of the printed work**. The form does not publish a fixed price or completion time for an individual request.",
@@ -45,7 +46,8 @@
       "category": "student-services",
       "questions": [
         "I lost my UAEU student ID card. Which office must I report it to, and is the replacement free or paid?",
-        "Where should I report a lost or stolen UAEU student ID card?"
+        "Where should I report a lost or stolen UAEU student ID card?",
+        "أين أبلغ عن فقدان أو سرقة البطاقة الجامعية في جامعة الإمارات وما رسوم استخراج بدل فاقد؟"
       ],
       "matchPhrases": ["lost student ID card", "stolen student ID card", "فقدان البطاقة الجامعية"],
       "answer_en": "**Lost or Stolen Student ID Card**\nReport it promptly to the **Admission and Registration Deanship**. UAEU's undergraduate admissions procedures say a replacement card is issued **for a fee**, but this section does **not state the amount**. The card is also required for services, final examinations, and campus access.",
@@ -65,7 +67,8 @@
       "category": "library",
       "questions": [
         "A book is unavailable in UAEU Library but exists as a printed LIWA item. What should I do before submitting a purchase request?",
-        "How do I request the library to buy a resource that is not available?"
+        "How do I request the library to buy a resource that is not available?",
+        "كتاب غير متوفر في مكتبة جامعة الإمارات وموجود في LIWA كنسخة مطبوعة، ماذا أفعل قبل طلب الشراء؟"
       ],
       "matchPhrases": ["printed LIWA item", "library resource purchase request"],
       "answer_en": "**Library Resource Purchase Request**\nCheck UAEU Library's collection first, then **LIWA**. If LIWA has the title as a **printed book**, use **Request Item through Tipasa** to borrow it from a LIWA library before asking UAEU to purchase it. For a LIWA **e-book**, use the Resource Sharing form and specify the chapters needed. If no suitable title or alternative is available, submit the purchase form with reasons and comments. The form is **not for textbooks**; purchase requests are reviewed before approval.",
@@ -84,7 +87,8 @@
       "category": "library",
       "questions": [
         "Through LIWA Tipasa, how many items may a UAEU student borrow, for how long, and how many renewals are allowed?",
-        "What are the LIWA Tipasa borrowing limits for UAEU students?"
+        "What are the LIWA Tipasa borrowing limits for UAEU students?",
+        "ما هي حدود ومدة استعارة الكتب لطلبة جامعة الإمارات عبر تيباسا LIWA Tipasa وكم مرة يسمح بالتجديد؟"
       ],
       "matchPhrases": ["LIWA Tipasa borrowing limits", "LIWA Tipasa loan period", "استعارة LIWA Tipasa"],
       "answer_en": "**LIWA Tipasa Interlibrary Loan**\nRegistered UAEU students may borrow up to **10 items per visit** through LIWA Tipasa. The loan period is **one month**, and an item may be renewed **twice**. Non-circulating items such as multimedia, reference books, and theses are excluded.",
@@ -103,7 +107,8 @@
       "category": "library",
       "questions": [
         "Can UAEU alumni use electronic academic library resources with their university account?",
-        "Do UAEU graduates have electronic library resource access?"
+        "Do UAEU graduates have electronic library resource access?",
+        "هل يمكن لخريجي جامعة الإمارات استخدام المصادر الأكاديمية الإلكترونية للمكتبة بحسابهم الجامعي؟"
       ],
       "matchPhrases": ["electronic resources for alumni", "alumni electronic library resources"],
       "answer_en": "**Electronic Academic Library Resources for Alumni**\nYes. The UAEU Main Library says alumni can access electronic academic resources using their **university account**. The page does not list every included database or guarantee access to a particular publisher resource.",
